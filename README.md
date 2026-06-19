@@ -22,5 +22,14 @@ Cloud watch- monitoring on AWS services - tracks every action on AWS, also track
 
 LAMBDA- serverless compute - short actions, execute and tear down automatically. ex: above problem can be solved with Lamda function by encryting the EBS volume.
 
+Cloud build services- for CI/CD.
+            AWS code pipeline, code build, code deploy.
 
+AWS configuration- configure some actions like guardrails one and take necessary actions for remediation.
+Billing and costing - we can understand billing and costing of AWS services.
+AWS KMS- 
+
+
+            
+            
 
