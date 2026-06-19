@@ -27,7 +27,12 @@ Cloud build services- for CI/CD.
 
 AWS configuration- configure some actions like guardrails one and take necessary actions for remediation.
 Billing and costing - we can understand billing and costing of AWS services.
-AWS KMS- 
+AWS KMS- to secure any resource we need secrets or keys. key managment service - to store cert, or any secure data.
+Cloud trail- enable operational and risk audting, preserve logs for api calls for last 30 or more days as well.
+AWS EKS- elaastic K8s service- **very imp**.
+
+
+
 
 
             
