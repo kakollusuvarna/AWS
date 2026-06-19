@@ -26,10 +26,26 @@ Cloud build services- for CI/CD.
             AWS code pipeline, code build, code deploy.
 
 AWS configuration- configure some actions like guardrails one and take necessary actions for remediation.
+
 Billing and costing - we can understand billing and costing of AWS services.
+
 AWS KMS- to secure any resource we need secrets or keys. key managment service - to store cert, or any secure data.
+
 Cloud trail- enable operational and risk audting, preserve logs for api calls for last 30 or more days as well.
-AWS EKS- elaastic K8s service- **very imp**.
+
+AWS EKS- elaastic K8s service- **very imp**. it is managed service as ideally provided by k8S but below ECS is from AWS.
+
+Other containers- Fargate, ECS- by AWS.
+
+ELK- elastic search log stack kibana-- logging info and querying the data or info from it.
+      to monitor errors and efficient logging.
+
+
+      
+
+
+
+
 
 
 
